@@ -88,8 +88,8 @@ public class Currency_Converter {
         }
     
 
-
-    static void get_list1() {System.out.println("1.Indian Rupees \n2.US Doller \n3.Euro \n4.Pound \n5.Canadian Doller \n6.Kuwait Dinar \n7.More");}
+    
+static void get_list1() {System.out.println("1.Indian Rupees \n2.US Doller \n3.Euro \n4.Pound \n5.Canadian Doller \n6.Kuwait Dinar \n7.More");}
      
 
         
